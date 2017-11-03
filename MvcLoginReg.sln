@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcLoginReg", "MvcLoginReg\MvcLoginReg.csproj", "{F1C4E887-1802-4333-B7E4-88F658F595FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C4E887-1802-4333-B7E4-88F658F595FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C4E887-1802-4333-B7E4-88F658F595FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C4E887-1802-4333-B7E4-88F658F595FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C4E887-1802-4333-B7E4-88F658F595FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
